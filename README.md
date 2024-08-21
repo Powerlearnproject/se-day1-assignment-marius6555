@@ -20,7 +20,15 @@ Innovation: Software engineering enables the development of innovative products 
 Identify and describe at least three key milestones in the evolution of software engineering.DevOps Practices which integrates development and operations to automate and streamline the software delivery process, using practices like Continuous Integration (CI) and Continuous Deployment (CD). Enhances collaboration between teams, speeds up release cycles, and improves the overall quality and reliability of software.
 
 
-List and briefly explain the phases of the Software Development Life Cycle.
+List and briefly explain the phases of the Software Development Life Cycle.Step 1: Understanding Customer Requirements ''requirements collection'' step. It's all about communicating with the customer before building software, so you get to know their requirements thoroughly. It's usually conducted by a business analyst or product analyst. A Customer Requirement Specification (CRS) document is prepared to describe what the software is going to do.
+
+Step 2: Requirement Analysis: This stage involves exploring issues related to the financial, technical, operational, and time management aspects of software development. It's an essential step toward creating functional specifications and design. It's usually done by a team of product managers, business analysts, software architects, developers, HR, and finance managers.
+
+Step 3: Creating a Design Once the analysis stage is over, it's time to create a blueprint for the software. Architects and senior developers create a high-level design of the software architecture, along with a low-level design describing how every component in the software should work.
+
+Step 4: Coding, Testing, and Installation Then software developers implement the design by writing code. After all the code developed by different teams is integrated, test engineers check if the software meets the required specifications, so that developers can debug code. The release engineer then deploys the software and it can be on a server.
+
+Step 5: Keeping it going: Maintenance, the application of each of the previous steps to the existing modules in the software to modify or add new features, depending on what the customer needs.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
