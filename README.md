@@ -17,7 +17,7 @@ Project Management: It provides frameworks like Agile, Scrum, and Waterfall to m
 
 Innovation: Software engineering enables the development of innovative products and services by leveraging new technologies and methodologies.
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+Identify and describe at least three key milestones in the evolution of software engineering.DevOps Practices which integrates development and operations to automate and streamline the software delivery process, using practices like Continuous Integration (CI) and Continuous Deployment (CD). Enhances collaboration between teams, speeds up release cycles, and improves the overall quality and reliability of software.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
