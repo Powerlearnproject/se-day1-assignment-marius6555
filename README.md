@@ -1,4 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15577614&assignment_repo_type=AssignmentRepo)
+ki[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15577614&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
@@ -31,7 +31,9 @@ Step 4: Coding, Testing, and Installation Then software developers implement the
 Step 5: Keeping it going: Maintenance, the application of each of the previous steps to the existing modules in the software to modify or add new features, depending on what the customer needs.
 
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.Waterfall methodlogy aspects, Linear and sequential process Low flexiblity Heavy reliance on documentation Customer involvement Limited to initial stages Risks are identified early; changes are costly Predictable timeline Difficult and costly to implement changes Scenario: Building a Payroll System: Developing a payroll system for a company where the requirements are fully specified upfront and need to adhere to strict regulatory guidelines.
+
+Agile methodology aspects Iterative and incremental process Highly flexible Documentation is less formal, more dynamic Continuous collaboration and feedback during customer involvement Risks managed throughout the process with regular adjustments Adaptive, timelines can shift with scope changes Built-in adaptability to changing requirements Scenario; Developing a Mobile App: Creating a mobile app for a startup, where the features and user experience are likely to change based on user feedback and market demands.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
