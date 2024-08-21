@@ -61,7 +61,13 @@ VCS allows multiple developers to work on the same project simultaneously withou
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.Software engineers commonly face challenges like managing technical debt, meeting deadlines, keeping up with rapid technological changes, debugging complex code, ensuring code quality, and bridging communication gaps in teams. Strategies to overcome these include regular refactoring, using project management and debugging tools, continuous learning, adhering to coding standards, and fostering open communication.
 
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.Unit Testing Tests individual components or functions in isolation. Importance, Detects bugs early, simplifies integration, and supports changes with confidence.
+
+Integration Testing Tests interactions between integrated components or units. Importance, Identifies interface issues and ensures compatibility and reliable component interactions.
+
+System Testing Tests the complete and integrated software system. Importance, Validates end-to-end functionality, performance, and simulates real-world scenarios.
+
+Acceptance Testing Verifies that the software meets business requirements and is ready for deployment. Importance: Confirms requirement fulfillment, validates user experience, and reduces deployment risk.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
