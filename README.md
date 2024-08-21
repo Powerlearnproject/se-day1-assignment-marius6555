@@ -1,4 +1,4 @@
-ki[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15577614&assignment_repo_type=AssignmentRepo)
+Huki[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15577614&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
@@ -77,3 +77,6 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt: "Tell me about a book."
+
+Improved Prompt: "Summarize the plot and main themes of 5AM Club by Robin Sharama in 200 words." The improved prompt reduces ambiguity and provides clear instructions, which guides the AI to generate a more accurate, relevant, and concise response. This is particularly important in scenarios where the user needs specific information quickly and efficiently. By removing vagueness, the improved prompt minimizes the risk of misunderstanding and maximizes the value of the AI's output.
