@@ -58,7 +58,7 @@ For example, VisualStudio Code, Pycharm, Netbeans
 
 VCS allows multiple developers to work on the same project simultaneously without overwriting each other's changes. It tracks changes made by each developer and manages the merging of code, which is essential for team collaboration, keep a detailed history of changes made to the codebase, including who made the changes, when they were made, and why alongside enabling developers create branches to work on new features, bug fixes, or experiments without affecting the main codebase. Once the changes are tested and ready, they can be merged back into the main branch. This helps in managing different development streams and reduces the risk of introducing bugs. Example;Github
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.Software engineers commonly face challenges like managing technical debt, meeting deadlines, keeping up with rapid technological changes, debugging complex code, ensuring code quality, and bridging communication gaps in teams. Strategies to overcome these include regular refactoring, using project management and debugging tools, continuous learning, adhering to coding standards, and fostering open communication.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
